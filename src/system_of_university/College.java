@@ -3,7 +3,7 @@ package system_of_university;
 
 /**
  *
- * @author sara
+ *
  */
 
 
