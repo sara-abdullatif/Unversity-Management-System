@@ -1,18 +1,8 @@
 
 package system_of_university;
 
-/**
- *
- *
- */
-
-
 import java.util.ArrayList;
 
-/**
- *
- * @author sara
- */
 public class College {
 
     private String CollegeName;
